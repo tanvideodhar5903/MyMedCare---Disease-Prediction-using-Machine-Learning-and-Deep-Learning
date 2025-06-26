@@ -1,0 +1,5 @@
+body{
+    background-image: url('C:/Users/SLIM5/OneDrive/Documents/Project_sem6/New folder/okay.jpg'); /* Specify the path to your background image */
+    background-size: cover; /* Cover the entire background */
+    background-repeat: no-repeat; /* Do not repeat the background image */
+}
